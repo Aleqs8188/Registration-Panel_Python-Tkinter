@@ -1,0 +1,17 @@
+#Instrukcja i jak ono pracuje
+#
+#
+Po otwarciu aplikacji równolegle tworzony jest plik bazy danych, w którym będą przechowywane wszystkie informacje
+wprowadzone w samej aplikacji.
+
+Jest też panel administracyjny, w którym można zobaczyć, co znajduje się w pliku bzd.bd,
+a w jednym z nich, który na końcu jest podświetlony na czerwono, można wyszukiwać zapytania, a także usuwać wybrane kolumny.
+
+Naprawdę przepraszam za taki interfejs, bo próbowałem wszystkiego, co można skompilować obrazkami,
+program się zawiesił z rzędu z przepisanym kodem, nie wiem dlaczego, ale nie zadziałało.
+
+Login i hasło do wejścia admin paneli to admin/admin
+#
+#
+#
+#
